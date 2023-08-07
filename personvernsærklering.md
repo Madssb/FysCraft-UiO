@@ -1,7 +1,7 @@
 # Personvernerklæring
 
 ## 1. Behandlingsansvarlig
-[Navn] er behandlingsansvarlig for innsamlingen og behandlingen av personopplysninger i henhold til påmelding for Minecraft-serveren.
+[Navn] er behandlingsansvarlig for innsamlingen og behandlingen av personopplysninger i henhold til påmelding for [Minecraft-server navn].
 
 ## 2. Formål
 Formålet med innsamlingen av personopplysninger er å rapportere og håndtere brudd på UiOs etiske retningslinjer og retningslinjer mot trakassering, som kan oppstå på Minecraft-serveren.

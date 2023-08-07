@@ -1,7 +1,7 @@
-# Retningslinjer for Minecraft-server
+# Retningslinjer for [Minecraft-server navn]
 
 ## 0. Tilgang
-Tilgang til Minecraft-serveren baserer seg på at deltakers brukernavn føres manuelt inn i en whitelist ved påmelding via nettskjema.
+Tilgang til [Minecraft-server navn] gis ved at deltakers brukernavn føres manuelt inn i en whitelist ved påmelding via nettskjema.
 
 ## 1. Forbud mot griefing
 Griefing defineres her som når en spiller endrer på en annen spillers byggverk eller område uten deres samtykke, samt ødeleggelse av naturlig generert terreng, er strengt forbudt.
