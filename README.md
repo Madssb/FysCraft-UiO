@@ -1,6 +1,6 @@
-# [Minecraft-server navn]
-Home-repository for [Minecraft-server navn]. Here you may find the Terms of Service and Privacy Policiy, (both written in Norwegian).
+# FysCraft UiO 
+Repositoriet for minecraft serveren ved fysisk institutt. Her finner en foreløpig dokumenter med retningslinjer for deltakelse på serveren, og personvernsærklering for informasjonen vi krever.
 
-You may sign up to join the Minecraft server via: [link to sign-up form].
+studenter tilhørende instituttet kan melde seg på via følgende lenke: 
 
-Questions may be forwarded to madssb@uio.no.
+Henvendelser sendes til madssb@uio.no.
